@@ -1,0 +1,5 @@
+pyspark>=3.4.0
+pandas
+pyarrow>=14.0.0
+matplotlib
+requests

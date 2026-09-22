@@ -1,0 +1,4 @@
+level,num_rows,kmeans_time_sec,wcss
+Nho_100K,100000,12.13,26810.16
+TrungBinh_1M,1000000,64.57,399164.56
+Lon_ToanBo,10512000,163.78,17105723.84
